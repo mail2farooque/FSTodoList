@@ -1,5 +1,4 @@
 # FSTodoList with Azure
-====
 The app functionality is:
 
 - View a list of tasks from Azure Cloud database .
@@ -7,5 +6,4 @@ The app functionality is:
 - Complete task from list and update the Azure database
 
 # Authors
--------
 Farooque Shaikh
